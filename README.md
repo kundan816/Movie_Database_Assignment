@@ -1,6 +1,6 @@
-##Movie Data Management System
+## Movie Data Management System
 
-Overview
+# Overview
 
 The Movie Data Management System is a Java-based application that allows users to manage movie-related data. 
 It processes data from three CSV files (movies_large.csv, actors_large.csv, directors_large.csv) and provides a menu-driven interface for performing 14 different operations.
@@ -14,7 +14,7 @@ It processes data from three CSV files (movies_large.csv, actors_large.csv, dire
 3.View movie details, including actors and directors.
 
 
-#Technologies Used
+# Technologies Used
 
 1.Programming Language: Java
 
